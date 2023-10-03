@@ -5175,12 +5175,12 @@ function uNweLs() {
       text-align: left;
       border-radius: 5px;
     }
-
+  
     .cTabActive {
       background: #f1dadd;
       border-radius: 5px;
     }
-
+  
     .tab-icon {
       width: 30px;
       height: 30px;
@@ -5190,7 +5190,7 @@ function uNweLs() {
       display: inline-block;
       vertical-align: middle;
     }
-
+  
     .tab-text {
       margin-left: 10px;
       color: #FF69B4;
